@@ -52,3 +52,4 @@
 ; (describe-paths 'living-room *map*)
 ; (is-at 'whiskey-bottle 'living-room *object-locations*)
 ; (describe-floor 'living-room *objects* *object-locations*)
+; (look)
