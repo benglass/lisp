@@ -1,3 +1,5 @@
+;http://www.lisperati.com/casting.html
+
 (setf *map* '((living-room 
                (you are in the living-room of a wizards house.
                 the wizard is sleeping on the couch)
